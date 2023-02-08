@@ -169,7 +169,7 @@ function tF($yf)
 <head>
 <meta property="og:image" content="https://i.top4top.io/p_2580bkcoz0.png" />
 <meta property="og:title" content="M4DI~UciH4 &#128293;" />
-<meta property="og:description" content="One Hat Cyber Team" />
+<meta property="og:description" content="Bypass Shell" />
 <meta name="theme-color" content="#ff0000">
 <meta name="viewport" content="width=device-width, initial-scale=0.60, shrink-to-fit=no">
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
